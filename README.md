@@ -1,2 +1,2 @@
 # maestro
-working on a web development project
+Welcome to the page of a learning developeer!
